@@ -54,10 +54,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/ee6470/hw2/q2
+CMAKE_SOURCE_DIR = /home/user/ee6470/hw2/EE6470_HW2/q2
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/ee6470/hw2/q2/build
+CMAKE_BINARY_DIR = /home/user/ee6470/hw2/EE6470_HW2/q2/build
 
 #=============================================================================
 # Directory level rules for the build root directory
@@ -83,14 +83,14 @@ clean: CMakeFiles/check.dir/clean
 CMakeFiles/sobel.dir/all:
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sobel.dir/build.make CMakeFiles/sobel.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/sobel.dir/build.make CMakeFiles/sobel.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/q2/build/CMakeFiles --progress-num=2,3,4,5,6 "Built target sobel"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles --progress-num=2,3,4,5,6 "Built target sobel"
 .PHONY : CMakeFiles/sobel.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/sobel.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 5
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 5
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/sobel.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 0
 .PHONY : CMakeFiles/sobel.dir/rule
 
 # Convenience name for target.
@@ -109,14 +109,14 @@ CMakeFiles/sobel.dir/clean:
 CMakeFiles/run.dir/all: CMakeFiles/sobel.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/run.dir/build.make CMakeFiles/run.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/q2/build/CMakeFiles --progress-num=1 "Built target run"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles --progress-num=1 "Built target run"
 .PHONY : CMakeFiles/run.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/run.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/run.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 0
 .PHONY : CMakeFiles/run.dir/rule
 
 # Convenience name for target.
@@ -135,14 +135,14 @@ CMakeFiles/run.dir/clean:
 CMakeFiles/check.dir/all: CMakeFiles/run.dir/all
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/depend
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/check.dir/build.make CMakeFiles/check.dir/build
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/q2/build/CMakeFiles --progress-num= "Built target check"
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --progress-dir=/home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles --progress-num= "Built target check"
 .PHONY : CMakeFiles/check.dir/all
 
 # Build rule for subdir invocation for target.
 CMakeFiles/check.dir/rule: cmake_check_build_system
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 6
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 6
 	$(MAKE) $(MAKESILENT) -f CMakeFiles/Makefile2 CMakeFiles/check.dir/all
-	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/q2/build/CMakeFiles 0
+	$(CMAKE_COMMAND) -E cmake_progress_start /home/user/ee6470/hw2/EE6470_HW2/q2/build/CMakeFiles 0
 .PHONY : CMakeFiles/check.dir/rule
 
 # Convenience name for target.

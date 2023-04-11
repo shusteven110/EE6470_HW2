@@ -53,10 +53,10 @@ RM = /usr/bin/cmake -E rm -f
 EQUALS = =
 
 # The top-level source directory on which CMake was run.
-CMAKE_SOURCE_DIR = /home/user/ee6470/hw2/q1
+CMAKE_SOURCE_DIR = /home/user/ee6470/hw2/EE6470_HW2/q1
 
 # The top-level build directory on which CMake was run.
-CMAKE_BINARY_DIR = /home/user/ee6470/hw2/q1/build
+CMAKE_BINARY_DIR = /home/user/ee6470/hw2/EE6470_HW2/q1/build
 
 # Utility rule file for run.
 
@@ -69,8 +69,8 @@ include CMakeFiles/run.dir/progress.make
 CMakeFiles/run: out.bmp
 
 out.bmp: sobel
-	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/user/ee6470/hw2/q1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating out.bmp"
-	./sobel /home/user/ee6470/hw2/q1/peppers_gray_noise.bmp ./out.bmp
+	@$(CMAKE_COMMAND) -E cmake_echo_color --switch=$(COLOR) --blue --bold --progress-dir=/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles --progress-num=$(CMAKE_PROGRESS_1) "Generating out.bmp"
+	./sobel /home/user/ee6470/hw2/EE6470_HW2/q1/peppers_gray_noise.bmp ./out.bmp
 
 run: CMakeFiles/run
 run: out.bmp
@@ -86,6 +86,6 @@ CMakeFiles/run.dir/clean:
 .PHONY : CMakeFiles/run.dir/clean
 
 CMakeFiles/run.dir/depend:
-	cd /home/user/ee6470/hw2/q1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/ee6470/hw2/q1 /home/user/ee6470/hw2/q1 /home/user/ee6470/hw2/q1/build /home/user/ee6470/hw2/q1/build /home/user/ee6470/hw2/q1/build/CMakeFiles/run.dir/DependInfo.cmake --color=$(COLOR)
+	cd /home/user/ee6470/hw2/EE6470_HW2/q1/build && $(CMAKE_COMMAND) -E cmake_depends "Unix Makefiles" /home/user/ee6470/hw2/EE6470_HW2/q1 /home/user/ee6470/hw2/EE6470_HW2/q1 /home/user/ee6470/hw2/EE6470_HW2/q1/build /home/user/ee6470/hw2/EE6470_HW2/q1/build /home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/run.dir/DependInfo.cmake --color=$(COLOR)
 .PHONY : CMakeFiles/run.dir/depend
 

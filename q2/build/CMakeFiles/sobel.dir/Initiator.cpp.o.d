@@ -1,6 +1,8 @@
 CMakeFiles/sobel.dir/Initiator.cpp.o: \
- /home/user/ee6470/hw2/q2/Initiator.cpp /usr/include/stdc-predef.h \
- /home/user/ee6470/hw2/q2/Initiator.h /opt/systemc/include/systemc \
+ /home/user/ee6470/hw2/EE6470_HW2/q2/Initiator.cpp \
+ /usr/include/stdc-predef.h \
+ /home/user/ee6470/hw2/EE6470_HW2/q2/Initiator.h \
+ /opt/systemc/include/systemc \
  /opt/systemc/include/sysc/kernel/sc_cmnhdr.h /usr/include/c++/11/cassert \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \

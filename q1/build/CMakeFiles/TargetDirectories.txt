@@ -1,5 +1,5 @@
-/home/user/ee6470/hw2/q1/build/CMakeFiles/sobel.dir
-/home/user/ee6470/hw2/q1/build/CMakeFiles/run.dir
-/home/user/ee6470/hw2/q1/build/CMakeFiles/check.dir
-/home/user/ee6470/hw2/q1/build/CMakeFiles/edit_cache.dir
-/home/user/ee6470/hw2/q1/build/CMakeFiles/rebuild_cache.dir
+/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/sobel.dir
+/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/run.dir
+/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/check.dir
+/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/edit_cache.dir
+/home/user/ee6470/hw2/EE6470_HW2/q1/build/CMakeFiles/rebuild_cache.dir

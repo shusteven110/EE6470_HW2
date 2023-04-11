@@ -1,4 +1,5 @@
-CMakeFiles/sobel.dir/Filter.cpp.o: /home/user/ee6470/hw2/q1/Filter.cpp \
+CMakeFiles/sobel.dir/Filter.cpp.o: \
+ /home/user/ee6470/hw2/EE6470_HW2/q1/Filter.cpp \
  /usr/include/stdc-predef.h /usr/include/c++/11/cmath \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
@@ -169,7 +170,8 @@ CMakeFiles/sobel.dir/Filter.cpp.o: /home/user/ee6470/hw2/q1/Filter.cpp \
  /usr/include/c++/11/bits/basic_ios.tcc /usr/include/c++/11/ostream \
  /usr/include/c++/11/bits/ostream.tcc \
  /usr/include/c++/11/bits/istream.tcc \
- /usr/include/c++/11/bits/sstream.tcc /home/user/ee6470/hw2/q1/Filter.h \
+ /usr/include/c++/11/bits/sstream.tcc \
+ /home/user/ee6470/hw2/EE6470_HW2/q1/Filter.h \
  /opt/systemc/include/systemc \
  /opt/systemc/include/sysc/kernel/sc_cmnhdr.h /usr/include/c++/11/cassert \
  /usr/include/assert.h /usr/include/c++/11/vector \
@@ -358,4 +360,4 @@ CMakeFiles/sobel.dir/Filter.cpp.o: /home/user/ee6470/hw2/q1/Filter.cpp \
  /usr/include/c++/11/bits/stl_map.h \
  /usr/include/c++/11/bits/stl_multimap.h \
  /usr/include/c++/11/bits/erase_if.h \
- /home/user/ee6470/hw2/q1/filter_def.h
+ /home/user/ee6470/hw2/EE6470_HW2/q1/filter_def.h

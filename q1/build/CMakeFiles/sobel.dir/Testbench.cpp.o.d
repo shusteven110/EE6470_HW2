@@ -1,6 +1,6 @@
 CMakeFiles/sobel.dir/Testbench.cpp.o: \
- /home/user/ee6470/hw2/q1/Testbench.cpp /usr/include/stdc-predef.h \
- /usr/include/c++/11/cassert \
+ /home/user/ee6470/hw2/EE6470_HW2/q1/Testbench.cpp \
+ /usr/include/stdc-predef.h /usr/include/c++/11/cassert \
  /usr/include/x86_64-linux-gnu/c++/11/bits/c++config.h \
  /usr/include/x86_64-linux-gnu/c++/11/bits/os_defines.h \
  /usr/include/features.h /usr/include/features-time64.h \
@@ -60,7 +60,8 @@ CMakeFiles/sobel.dir/Testbench.cpp.o: \
  /usr/include/x86_64-linux-gnu/bits/stdlib-bsearch.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib-float.h \
  /usr/include/x86_64-linux-gnu/bits/stdlib.h \
- /usr/include/c++/11/bits/std_abs.h /home/user/ee6470/hw2/q1/Testbench.h \
+ /usr/include/c++/11/bits/std_abs.h \
+ /home/user/ee6470/hw2/EE6470_HW2/q1/Testbench.h \
  /usr/include/c++/11/string /usr/include/c++/11/bits/stringfwd.h \
  /usr/include/c++/11/bits/memoryfwd.h \
  /usr/include/c++/11/bits/char_traits.h \
@@ -289,7 +290,7 @@ CMakeFiles/sobel.dir/Testbench.cpp.o: \
  /usr/include/c++/11/bits/stl_heap.h \
  /usr/include/c++/11/bits/stl_tempbuf.h \
  /usr/include/c++/11/bits/uniform_int_dist.h \
- /home/user/ee6470/hw2/q1/Initiator.h /opt/systemc/include/tlm \
+ /home/user/ee6470/hw2/EE6470_HW2/q1/Initiator.h /opt/systemc/include/tlm \
  /opt/systemc/include/tlm_core/tlm_2/tlm_version.h \
  /opt/systemc/include/tlm_core/tlm_1/tlm_analysis/tlm_analysis.h \
  /opt/systemc/include/tlm_core/tlm_1/tlm_analysis/tlm_write_if.h \
@@ -336,4 +337,4 @@ CMakeFiles/sobel.dir/Testbench.cpp.o: \
  /opt/systemc/include/tlm_utils/simple_initiator_socket.h \
  /opt/systemc/include/tlm_utils/convenience_socket_bases.h \
  /opt/systemc/include/tlm_utils/tlm_quantumkeeper.h \
- /home/user/ee6470/hw2/q1/filter_def.h
+ /home/user/ee6470/hw2/EE6470_HW2/q1/filter_def.h
